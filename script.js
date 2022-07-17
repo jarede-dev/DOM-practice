@@ -1,5 +1,4 @@
-document.body.style.backgroundColor = "#D3D3D3";
-document.body.setAttribute("style", "display: flex; flex-direction: column; align-items: center")
+document.body.setAttribute("style", "display: flex; flex-direction: column; align-items: center; background: #D3D3D3");
 
 const redText = document.createElement("p");
 redText.textContent = "Hey, I'm red!";
